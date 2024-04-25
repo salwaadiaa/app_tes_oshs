@@ -10,3 +10,7 @@ Untuk cara instalasi dan konfigurasi :
 5. Ubah juga konfigurasi database di file `config.php` 
 6. Untuk login kalian bisa register terlebih dahulu atau menggunakan email = `admin@gmail.com` dan password `admin`
 
+![Deskripsi Gambar](login.png)
+
+
+
