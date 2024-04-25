@@ -38,7 +38,10 @@
                 </label>
             </div>
             <div class="form-login">
-                <button type="submit" name="register">Sign up</button>
+                <button type="submit" name="register" class="btn-login">Sign up</button>
+            </div>
+            <br>
+            <div class="form-group">
                 <p>Already have an account? <a href="<?= base_url('auth/index') ?>">Login</a></p>
             </div>
         </form>

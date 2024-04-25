@@ -47,7 +47,8 @@ a {
   background-size: cover; }
 
 .inner {
-  max-width: 850px;
+  width: 1000px; /* Sesuaikan lebar kotak dengan kebutuhan Anda */
+  height: 550px;
   margin: auto;
   background: #fff;
   display: flex;
@@ -125,6 +126,15 @@ h3 {
     color: #808080;
     text-transform: uppercase;
     font-family: "Montserrat-Regular"; }
+    .form-group {
+      text-align: center; 
+    }
+    
+    .form-group p {
+      display: inline-block; 
+      margin: 0;
+    }
+    
 
 @-webkit-keyframes hvr-wobble-horizontal {
   16.65% {
@@ -194,6 +204,12 @@ button {
     -webkit-animation-iteration-count: 1;
     animation-iteration-count: 1; }
 
+    .btn-login {
+      display: block;
+      margin: 0 auto;
+    }
+    
+
 .checkbox {
   position: relative;
   padding-left: 19px;
@@ -251,18 +267,20 @@ button {
 
     .input-icon {
       position: relative;
-  }
-  
-  .input-icon input {
-      padding-left: 30px;
-  }
-  
-  .input-icon i {
+    }
+    
+    .input-icon input {
+      padding-left: 50px;
+    }
+    
+    .input-icon .fas {
       position: absolute;
-      left: 5px;
+      left: 15px; 
       top: 50%;
       transform: translateY(-50%);
-  }
+      color: #5997B8;
+    }
+    
   
 
 /*# sourceMappingURL=style.css.map */

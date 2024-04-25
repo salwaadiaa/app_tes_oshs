@@ -41,15 +41,11 @@
                     <input type="password" name="password" placeholder="Password" class="form-control">
                     <i class="fas fa-lock"></i>
             </div>
-            <div class="form-group">
-                <label class="checkbox">
-                    <input type="checkbox" checked> Remember me
-                    <span class="checkmark"></span>
-                </label>
-            </div>
+            <br>
             <div class="form-group">
                 <button type="submit" name="login" class="btn-login">Login</button>
             </div>
+            <br>
             <div class="form-group">
                 <p>Don't have an account? <a href="<?= base_url('auth/register_form') ?>">Sign up</a></p>
             </div>
