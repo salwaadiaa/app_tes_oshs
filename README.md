@@ -10,7 +10,7 @@ Untuk cara instalasi dan konfigurasi :
 5. Ubah juga konfigurasi database di file `config.php` 
 6. Untuk login kalian bisa register terlebih dahulu atau menggunakan email = `admin@gmail.com` dan password `admin`
 
+![WhatsApp Image 2024-04-25 at 18 38 43](https://github.com/salwaadiaa/app_tes_oshs/assets/99589197/a26372ca-4275-4af3-bca3-09af97464225)
 
-![Login](app_tes_oshs/sb_admin-2/img/login.jpeg)![login](https://github.com/salwaadiaa/app_tes_oshs/assets/99589197/ad99665e-7cfb-4973-9b8d-fb95a5e01bef)
 
 
