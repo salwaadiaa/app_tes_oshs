@@ -105,14 +105,6 @@
 	                    					<th>Aksi</th>
 	                    				</tr>
 	                 				</thead>
-	                  				<tfoot>
-	                    				<tr>
-	                    					<th>No</th>
-	                    					<th>Nama</th>
-	                    					<th>email</th>
-	                    					<th>Aksi</th>
-	                    				</tr>
-	                  				</tfoot>
 	                 				<tbody>
 										<?php while($akun = $data_akun->fetch_object()) : ?>
 											<tr>
